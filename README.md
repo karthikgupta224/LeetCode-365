@@ -1,4 +1,5 @@
 # 🚀 LeetCode 365
+solving leetcode for next 365 days🥋
 
 ⭐ If you find this repository useful, feel free to star it!
 
