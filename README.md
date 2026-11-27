@@ -10,5 +10,14 @@ solved problems till now 👇
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/karthikgupta224/LeetCode-365/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/karthikgupta224/LeetCode-365/tree/main/2235-add-two-integers/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/karthikgupta224/LeetCode-365/tree/main/0412-fizz-buzz/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/karthikgupta224/LeetCode-365/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
