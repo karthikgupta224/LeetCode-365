@@ -2,6 +2,8 @@
 
 ⭐ If you find this repository useful, feel free to star it!
 
+solved problems till now 👇
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
